@@ -1,1 +1,1 @@
-<rhymewriter.herokuapp.com>
+<http://rhymewriter.herokuapp.com/>
